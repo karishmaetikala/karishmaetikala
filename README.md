@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Karishma Etikala 👋
 
-<!--
-**karishmaetikala/karishmaetikala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at JB Institute of Engineering and Technology
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about Java and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning JavaScript and improving my problem-solving skills.
+
+## 🛠️ Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+- GitHub
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/karishmaetikala467
+
+⭐ Thanks for visiting my GitHub profile!
